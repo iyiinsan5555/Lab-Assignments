@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="" />
+    <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Scenario0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Scenario1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Scenario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Scenario3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Scenario4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Scenario1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Scenario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Scenario3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Scenario4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Scenario5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Scenario6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/Bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Lab5Bonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/Scenario0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Lab5Scenario0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/Scenario1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Lab5Scenario1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/Scenario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Lab5Scenario2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +30,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="34pfPh9v0Me8rQDFEObzPcEXKQv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Scenario1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

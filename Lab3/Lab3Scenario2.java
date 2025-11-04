@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Scenario2 {   // !!! Write another code for more than one team.
+public class Lab3Scenario2 {   // !!! Write another code for more than one team.
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

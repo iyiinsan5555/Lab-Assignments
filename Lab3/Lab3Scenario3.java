@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class Scenario3 {
+public class Lab3Scenario3 {
     public static void main(String[] args) {
 
         Random random_generator = new Random();
