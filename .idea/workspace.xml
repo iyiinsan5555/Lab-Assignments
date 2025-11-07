@@ -5,27 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Homeworks/AI_Number_Finder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/ArrayHomework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/ArrayHomework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/FibonacciWithArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Bonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Scenario0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Scenario1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Scenario2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Scenario3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Scenario4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PossibleQuestions/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PossibleQuestions/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PossibleQuestions/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PossibleQuestions/img_3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/Scenario0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/Scenario1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/Scenario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/Scenario3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/Scenario4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Scenario1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Scenario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Scenario3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Scenario4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Scenario5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Scenario6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4Scenario6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab5/Bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Lab5Bonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab5/Scenario0.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Lab5Scenario0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab5/Scenario1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Lab5Scenario1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab5/Scenario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Lab5Scenario2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab-Assignments.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,21 +42,50 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="34pfPh9v0Me8rQDFEObzPcEXKQv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AI_Number_Finder.executor": "Run",
+    "Application.ArrayHomework1.executor": "Run",
+    "Application.ArrayHomework2.executor": "Run",
+    "Application.Bonus.executor": "Run",
+    "Application.FibonacciWithArrays.executor": "Run",
+    "Application.Scenario0.executor": "Run",
     "Application.Scenario1.executor": "Run",
+    "Application.Scenario2.executor": "Run",
+    "Application.Scenario3.executor": "Run",
+    "Application.Scenario4.executor": "Run",
+    "Application.Section0.executor": "Run",
+    "Application.studying.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/IntelliJ/Lab-Assignments/Lab6",
+    "onboarding.tips.debug.path": "C:/IntelliJ/Lab-Assignments/src/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IntelliJ\Lab-Assignments\Lab6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IntelliJ\Lab-Assignments\src\src" />
+      <recent name="C:\IntelliJ\Lab-Assignments\Lab5" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
