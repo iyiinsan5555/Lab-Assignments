@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab7/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/BankAccountDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/BookDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/PointDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/ProductDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/FactoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/TaskBatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab-Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab-Assignments.iml" afterDir="false" />
     </list>
@@ -66,6 +59,7 @@
     "Application.BankAccountDemo.executor": "Run",
     "Application.Bonus.executor": "Run",
     "Application.BookDemo.executor": "Run",
+    "Application.FactoryDemo.executor": "Run",
     "Application.FibonacciWithArrays.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PointDemo.executor": "Run",
@@ -86,7 +80,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/IntelliJ/Lab-Assignments/Lab6",
+    "last_opened_file_path": "C:/IntelliJ/Lab-Assignments",
     "onboarding.tips.debug.path": "C:/IntelliJ/Lab-Assignments/src/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
