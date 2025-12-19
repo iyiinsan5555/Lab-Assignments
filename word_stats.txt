@@ -1,0 +1,29 @@
+Total: 19
+love: 1
+Java: 3
+in: 2
+Programming: 1
+is: 1
+Text: 1
+we: 1
+important: 1
+file: 1
+are: 1
+and: 1
+Also: 1
+supports: 1
+processing: 1
+handling: 1
+oriented: 1
+fun: 1
+programming: 2
+object: 1Hello 
+world 
+This 
+is 
+bec 
+test 
+file 
+Hello 
+again 
+world 

@@ -128,6 +128,7 @@ public class Robot {
             }
             this.displayRobotInfo();
         }
+
     }
 
 
