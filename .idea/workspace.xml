@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab9/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/EmployeeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/TextAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture11/WordCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab-Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab-Assignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab8/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab-Assignments/Robot.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
