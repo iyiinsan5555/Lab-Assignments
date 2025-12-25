@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture11/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyingToFinals/GrowArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyingToFinals/Prime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab-Assignments.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,7 @@
     "Application.MergeArrays.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.PointDemo.executor": "Run",
+    "Application.Prime.executor": "Run",
     "Application.ProductDemo.executor": "Run",
     "Application.Quiz3.executor": "Run",
     "Application.Scenario0.executor": "Run",
