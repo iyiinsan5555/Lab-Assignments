@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudyingToFinals/Book2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyingToFinals/BookDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyingToFinals/FactoryDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyingToFinals/Robot2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Application.Chess.executor": "Run",
     "Application.EvenDivisors.executor": "Run",
     "Application.FactoryDemo.executor": "Run",
+    "Application.FactoryDemo2.executor": "Run",
     "Application.FibonacciWithArrays.executor": "Run",
     "Application.GrowArray.executor": "Run",
     "Application.GrowArray2.executor": "Run",
