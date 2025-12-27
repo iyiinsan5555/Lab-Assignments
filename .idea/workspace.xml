@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudyingToFinals/GrowArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyingToFinals/PeaksInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/GrowArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab-Assignments/GrowArray2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +67,7 @@
     "Application.Matrix.executor": "Run",
     "Application.MergeArrays.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
+    "Application.PeaksInArray.executor": "Run",
     "Application.PointDemo.executor": "Run",
     "Application.Prime.executor": "Run",
     "Application.ProductDemo.executor": "Run",
