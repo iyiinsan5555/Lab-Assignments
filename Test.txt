@@ -1,0 +1,5 @@
+
+Name: Poop & Quantity: 2 & Price: 5,000000 
+Name: Phone & Quantity: 5 & Price: 105,000000 
+Name: Poop & Quantity: 2 & Price: 5,00 
+Name: Phone & Quantity: 5 & Price: 105,00 
