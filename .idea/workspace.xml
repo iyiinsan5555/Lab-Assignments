@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudyingToFinals/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyingToFinals/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyingToFinals/Recursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +74,7 @@
     "Application.Prime.executor": "Run",
     "Application.ProductDemo.executor": "Run",
     "Application.Quiz3.executor": "Run",
+    "Application.Recursion.executor": "Run",
     "Application.Scenario0.executor": "Run",
     "Application.Scenario1.executor": "Run",
     "Application.Scenario2.executor": "Run",
