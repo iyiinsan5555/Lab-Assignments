@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudyingToFinals/CountA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyingToFinals/CustomSummation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyingToFinals/Duration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,8 @@
     "Application.BubbleSort.executor": "Run",
     "Application.Chess.executor": "Run",
     "Application.CountA.executor": "Run",
+    "Application.CustomSummation.executor": "Run",
+    "Application.Duration.executor": "Run",
     "Application.EvenDivisors.executor": "Run",
     "Application.FactoryDemo.executor": "Run",
     "Application.FactoryDemo2.executor": "Run",
