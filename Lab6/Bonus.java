@@ -17,7 +17,7 @@ public class Bonus {
 
         //Printing each row in each line
         for (int i=0; i<5; i++) {
-            System.out.printf("Student %d: ", i+1);
+            System.out.printf("Lab7Student %d: ", i+1);
             for (int j=0; j<4;j++) {
 
                 System.out.print(scores[i][j] + " ");
@@ -65,7 +65,7 @@ public class Bonus {
 
         //Printing each students quiz averages
         for (int i=0;i<5;i++){
-            System.out.printf("Average Student %d : %.02f %n", (i+1), StudentAverages[i]);
+            System.out.printf("Average Lab7Student %d : %.02f %n", (i+1), StudentAverages[i]);
         }
 
         //Finding the highest score
@@ -79,7 +79,7 @@ public class Bonus {
 
                 if (scores[i][j] > highestScoreValue) {
                     highestScoreValue = scores[i][j];
-                    highestScoreIndex[0] = i; //Student index
+                    highestScoreIndex[0] = i; //Lab7Student index
                     highestScoreIndex[1] = j; //Quiz index
                 } else if (scores[i][j] == highestScoreValue) {
                     // 2 values sharing the highest score
@@ -101,8 +101,8 @@ public class Bonus {
             }
         }
 
-        System.out.printf("Highest score : %d Student Index : %d, Quiz Index : %d %n", highestScoreValue, highestScoreIndex[0], highestScoreIndex[1]);
-        System.out.printf("Highest score : %d Student Number : %d, Quiz Number : %d", highestScoreValue, highestScoreIndex[0] + 1, highestScoreIndex[1] + 1);
+        System.out.printf("Highest score : %d Lab7Student Index : %d, Quiz Index : %d %n", highestScoreValue, highestScoreIndex[0], highestScoreIndex[1]);
+        System.out.printf("Highest score : %d Lab7Student Number : %d, Quiz Number : %d", highestScoreValue, highestScoreIndex[0] + 1, highestScoreIndex[1] + 1);
 
 
 

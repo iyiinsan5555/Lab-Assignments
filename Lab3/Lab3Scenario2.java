@@ -9,13 +9,13 @@ public class Lab3Scenario2 {   // !!! Write another code for more than one team.
         long studentId = scanner.nextLong();
 
         if ((studentId % 2 == 0) && !(studentId % 3 == 0)) {
-            System.out.println("Student is in ALPHA TEAM!");
+            System.out.println("Lab7Student is in ALPHA TEAM!");
         } else if ((studentId % 5 == 0) || (studentId % 7 == 0)) {
-            System.out.println("Student is in BETA TEAM!");
+            System.out.println("Lab7Student is in BETA TEAM!");
         } else if ((studentId % 9) > 5) {
-            System.out.println("Student is in THETA TEAM!");
+            System.out.println("Lab7Student is in THETA TEAM!");
         } else {
-            System.out.println("Student is in SIGMA TEAM!");
+            System.out.println("Lab7Student is in SIGMA TEAM!");
         }
 
         scanner.close(); //Always make sure to close your scanner.

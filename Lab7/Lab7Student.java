@@ -1,4 +1,4 @@
-public class Student {
+public class Lab7Student {
     int age;
     String name;
 
@@ -7,13 +7,13 @@ public class Student {
     }
 
     //Default Constructor
-    public Student(){
+    public Lab7Student(){
         this.age = 0;
         this.name = "Not assigned";
     }
 
     //Parameterized Constructor
-    public Student(int age, String name){
+    public Lab7Student(int age, String name){
         this.age = age;
         this.name = name;
     }

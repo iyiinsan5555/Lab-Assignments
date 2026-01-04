@@ -5,9 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudyingToFinals/MergeArraysBetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyingToFinals/PrintPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions/GradeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyingToFinals/DecimalToBinary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab-Assignments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Lab3Scenario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/Bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/Bonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/Lab7Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/BookDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/BookDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/Lab7Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/StudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/StudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab-Assignments/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/BookDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab-Assignments/BookDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab-Assignments/Q1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q6.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,17 +80,20 @@
     "Application.ArrayHomework2.executor": "Run",
     "Application.BankAccountDemo.executor": "Run",
     "Application.Bonus.executor": "Run",
+    "Application.Book.executor": "Run",
     "Application.BookDemo.executor": "Run",
     "Application.BookDemo2.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.Chess.executor": "Run",
     "Application.CountA.executor": "Run",
     "Application.CustomSummation.executor": "Run",
+    "Application.DecimalToBinary.executor": "Run",
     "Application.Duration.executor": "Run",
     "Application.EvenDivisors.executor": "Run",
     "Application.FactoryDemo.executor": "Run",
     "Application.FactoryDemo2.executor": "Run",
     "Application.FibonacciWithArrays.executor": "Run",
+    "Application.GradeBook.executor": "Run",
     "Application.GrowArray.executor": "Run",
     "Application.GrowArray2.executor": "Run",
     "Application.Inventory.executor": "Run",
@@ -73,6 +101,7 @@
     "Application.Matrix.executor": "Run",
     "Application.MergeArrays.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
+    "Application.PalindromeChecker.executor": "Run",
     "Application.PeaksInArray.executor": "Run",
     "Application.PointDemo.executor": "Run",
     "Application.Prime.executor": "Run",
@@ -90,6 +119,7 @@
     "Application.Section0.executor": "Run",
     "Application.Strings.executor": "Run",
     "Application.StudentDemo.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.TextAnalyzer.executor": "Run",
     "Application.VowelCounter.executor": "Run",
     "Application.question2.executor": "Run",

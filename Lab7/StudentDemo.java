@@ -1,7 +1,7 @@
 public class StudentDemo {
     public static void main(String[] args) {
 
-        Student student = new Student();
+        Lab7Student student = new Lab7Student();
         student.printStudentInfo();
 
         //What are the values assigned to name and age?
