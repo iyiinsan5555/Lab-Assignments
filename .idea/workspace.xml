@@ -5,34 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53df105-d64c-4eb8-8c6c-ae1ac888cce9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions/PalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyingToFinals/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatGPTFinalQuestions/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeminiExercises/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeminiExercises/PetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions2/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions2/NewBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeminiFinalQuestions2/Testing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab-Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab-Assignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2Q6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/Lab3Scenario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3Scenario2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/Bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/Bonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/Lab7Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/BookDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/BookDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/Lab7Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/StudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/StudentDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab-Assignments/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/BookDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab-Assignments/BookDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab-Assignments/Q1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab-Assignments/Q6.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,10 +84,12 @@
     "Application.MultiplicationTable.executor": "Run",
     "Application.PalindromeChecker.executor": "Run",
     "Application.PeaksInArray.executor": "Run",
+    "Application.PetDemo.executor": "Run",
     "Application.PointDemo.executor": "Run",
     "Application.Prime.executor": "Run",
     "Application.PrintPairs.executor": "Run",
     "Application.ProductDemo.executor": "Run",
+    "Application.Q3.executor": "Run",
     "Application.Quiz3.executor": "Run",
     "Application.Recursion.executor": "Run",
     "Application.Scenario0.executor": "Run",
@@ -120,6 +103,7 @@
     "Application.Strings.executor": "Run",
     "Application.StudentDemo.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.Testing.executor": "Run",
     "Application.TextAnalyzer.executor": "Run",
     "Application.VowelCounter.executor": "Run",
     "Application.question2.executor": "Run",
