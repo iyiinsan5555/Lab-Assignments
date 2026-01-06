@@ -3,7 +3,7 @@ public class FuelTank {
     private double currentLevel;
 
     public FuelTank(double capacity) {
-        currentLevel = 0;
+        this.currentLevel = 0;
         this.capacity = capacity;
     }
 
